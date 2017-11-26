@@ -26,7 +26,8 @@ https://www.microsoft.com/ja-jp/learning/certification-overview.aspx
 https://partner.microsoft.com/ja-jp/membership/core-benefits
 
 ---
-### Cloud Platform対象試験は現在この5つ
+### Cloud Platform対象試験は現在5つ
+
 * 70-532
 * 70-533
 * 70-534
@@ -39,8 +40,7 @@ https://partner.microsoft.com/ja-jp/membership/cloud-platform-competency
 ### 社員:
 * Azureの基礎知識が習得できる
 * 報奨金が出る(会社次第)
-* 認定バッチ(デジタル)がもらえる
-[mese](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/mcse.png?raw=true)
+* 認定バッチ(デジタル)がもらえる![mese](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/mcse.png?raw=true)
 
 所詮ベンダー試験なので、仕事内容と合わないなら取得するメリットはほぼないかも...
 
