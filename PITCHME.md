@@ -20,7 +20,7 @@ https://www.microsoft.com/ja-jp/learning/certification-overview.aspx
 ---
 ## 取得するメリットは?
 ---
-### 会社 パートナー特典が受けられます。
+### 会社: パートナー特典が受けられます。
 ![partner](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/partner-co.png?raw=true)
 
 https://partner.microsoft.com/ja-jp/membership/core-benefits
