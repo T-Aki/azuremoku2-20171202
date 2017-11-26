@@ -27,7 +27,11 @@ https://partner.microsoft.com/ja-jp/membership/core-benefits
 
 ---
 ### Cloud Platform対象試験は現在この5つ
----?image=https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/partner-co2.png?raw=true?&size=auto 90%
+* 70-532
+* 70-533
+* 70-534
+* 70-473
+* 70-475
 
 https://partner.microsoft.com/ja-jp/membership/cloud-platform-competency
 
