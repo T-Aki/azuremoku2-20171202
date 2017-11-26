@@ -40,7 +40,7 @@ https://partner.microsoft.com/ja-jp/membership/cloud-platform-competency
 ### 社員:
 * Azureの基礎知識が習得できる
 * 報奨金が出る(会社次第)
-* 認定バッチ(デジタル)がもらえる![mese](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/mcse.png?raw=true)
+* 認定バッチ(デジタル)がもらえる
 
 所詮ベンダー試験なので、仕事内容と合わないなら取得するメリットはほぼないかも...
 
@@ -131,7 +131,7 @@ https://www.microsoft.com/ja-jp/learning/exam-70-475.aspx
 ![target](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/target.png?raw=true)
 
 ---
-## プレゼン資料はここです。 
+## LT資料はここです。 
 
 https://gitpitch.com/T-Aki/azuremoku2-20171202
 
