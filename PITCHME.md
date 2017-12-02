@@ -8,7 +8,7 @@
 * 今日はMCP 70-475の問題集もくもくやってました
 
 ---
- ここまでのもくもく会で<br/>70-533,534合格したので<br/>情報共有します
+ ここまでのもくもく会の参加後<br/>70-533,534合格したので<br/>情報共有します
 
 ---
 ## MCPとは何か?
@@ -21,9 +21,12 @@ https://www.microsoft.com/ja-jp/learning/certification-overview.aspx
 ## 取得するメリットは?
 ---
 ### 会社: パートナー特典が受けられます。
-![partner](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/partner-co.png?raw=true)
 
 https://partner.microsoft.com/ja-jp/membership/core-benefits
+
+![partner](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/partner-co.png?raw=true)
+
+
 
 ---
 ### Cloud Platform対象試験は現在5つ
@@ -42,14 +45,15 @@ https://partner.microsoft.com/ja-jp/membership/cloud-platform-competency
 * 報奨金が出る(会社次第)
 * 認定バッチ(デジタル)がもらえる
 
-所詮ベンダー試験なので、仕事内容と合わないなら取得するメリットはほぼないかも...
+いわゆるベンダー試験なので、仕事内容と合わないなら取得するメリットはほぼないかも...
 
 ---
 ## MCP 70-533とは何か?
 ---
 ![MCP](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/mcp70-533.png?raw=true)
-
 https://www.microsoft.com/ja-jp/learning/exam-70-533.aspx
+
+
 
 ---
 ## MCP 70-533とは何か?
