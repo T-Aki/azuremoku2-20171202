@@ -136,6 +136,12 @@ https://www.microsoft.com/ja-jp/learning/exam-70-475.aspx
 ![target](https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/target.png?raw=true)
 
 ---
+### フィードバック反映
+
+70-535 has come!
+ https://www.microsoft.com/en-us/learning/exam-70-535.aspx
+
+---
 ## LT資料はここです。 
 
 https://gitpitch.com/T-Aki/azuremoku2-20171202
