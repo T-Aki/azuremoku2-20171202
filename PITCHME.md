@@ -6,6 +6,7 @@
 	<img src="https://github.com/T-Aki/azuremoku2-20171202/blob/master/images/icon.png?raw=true" alt="icon" width="20%" align="right">
 * もくもく会は3回目
 * 今日はMCP 70-475の問題集もくもくやってました
+* 途中からはAzure Data Factoryの講座見てた。
 
 ---
  ここまでのもくもく会の参加後<br/>70-533,534合格したので<br/>情報共有します
